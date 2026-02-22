@@ -8,8 +8,12 @@ subtitle:
 description: 'Life''s simple. You make choices and you don''t look back.'
 keywords:
 author: 4pril
-language: zh-TW
-timezone: 'Japan'
+language:
+  - zh-CN
+  - zh-TW
+  - en
+  - ja
+timezone: Asia/Tokyo
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

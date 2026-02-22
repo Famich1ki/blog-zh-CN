@@ -122,3 +122,16 @@ loading: 加载中...
 load_more: 加载更多
 
 error404: 页面没有找到
+
+
+menu:
+  Home: 首页
+  Archive: 文章总览
+  Tag: 标签
+  Category: 分类
+  #   List||fas fa-list:
+  #     Music: /music/ || fas fa-music
+  #     Movie: /movies/ || fas fa-video
+  Link: 链接
+  About: 关于
+  Language: 语言

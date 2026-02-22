@@ -121,3 +121,16 @@ loading: Loading...
 load_more: Load More
 
 error404: Page Not Found
+
+
+menu:
+  Home: Home
+  Archive: Archive
+  Tag: Tag
+  Category: Category
+  #   List||fas fa-list:
+  #     Music: /music/ || fas fa-music
+  #     Movie: /movies/ || fas fa-video
+  Link: Link
+  About: About
+  Language: Language

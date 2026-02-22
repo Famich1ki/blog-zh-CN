@@ -122,3 +122,16 @@ loading: 載入中...
 load_more: 載入更多
 
 error404: 頁面沒有找到
+
+
+menu:
+  Home: 首頁
+  Archive: 文章總覽
+  Tag: 標籤
+  Category: 分類
+  #   List||fas fa-list:
+  #     Music: /music/ || fas fa-music
+  #     Movie: /movies/ || fas fa-video
+  Link: 鏈接
+  About: 關於
+  Language: 語言

@@ -121,3 +121,16 @@ loading: Loading...
 load_more: Load More
 
 error404: Page Not Found
+
+
+menu:
+  Home: ホームページ
+  Archive: アーカイブ
+  Tag: タグ
+  Category: カテゴリー
+  #   List||fas fa-list:
+  #     Music: /music/ || fas fa-music
+  #     Movie: /movies/ || fas fa-video
+  Link: リンク
+  About: プロファイル
+  Language: 言語
