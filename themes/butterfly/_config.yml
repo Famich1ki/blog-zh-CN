@@ -19,10 +19,10 @@ menu:
    链接: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
    语言||fas fa-language:
-     简体中文: / || fas fa-c
-     繁體中文: /zh-TW || fas fa-c
-     English: /en || fas fa-e
-     日本語: /ja || fas fa-j
+     简体中文: https://findfuns.org || fas fa-c
+     English: https://en.findfuns.org || fas fa-e
+     繁體中文: https://zh-TW.findfuns.org || fas fa-c
+     日本語: https://ja.findfuns.org || fas fa-j
 
 
 # Code Blocks (代碼相關)
