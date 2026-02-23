@@ -8,11 +8,7 @@ subtitle:
 description: 'Life''s simple. You make choices and you don''t look back.'
 keywords:
 author: 4pril
-language:
-  - zh-TW
-  - en
-  - ja
-  - zh-CN
+language: zh-CN
 timezone: Asia/Tokyo
 
 # URL
