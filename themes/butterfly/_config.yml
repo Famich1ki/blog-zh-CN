@@ -9,16 +9,16 @@ nav:
 
 # Menu 目錄
 menu:
-   Home: / || fas fa-home
-   Archive: /archives/ || fas fa-archive
-   Tag: /tags/ || fas fa-tags
-   Category: /categories/ || fas fa-folder-open
+   主页: / || fas fa-home
+   文章总览: /archives/ || fas fa-archive
+   标签: /tags/ || fas fa-tags
+   分类: /categories/ || fas fa-folder-open
 #   List||fas fa-list:
 #     Music: /music/ || fas fa-music
 #     Movie: /movies/ || fas fa-video
-   Link: /link/ || fas fa-link
-   About: /about/ || fas fa-heart
-   Language||fas fa-language:
+   链接: /link/ || fas fa-link
+   关于: /about/ || fas fa-heart
+   语言||fas fa-language:
      简体中文: / || fas fa-c
      English: /en || fas fa-e
      日本語: /ja || fas fa-j
