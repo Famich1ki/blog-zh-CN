@@ -220,22 +220,22 @@ cover: https://pics.findfuns.org/python.jpg
 - 使用 lambda 表达式指定 key
 - 使用内置函数 `attrgetter()` 获取用于排序的属性
 
-  def get_name(student)
-  return student.name
+      def get_name(student)
+          return student.name
 
-  from operator import attrgetter
+      from operator import attrgetter
 
-  sorted_students_1 = sorted(students, key=get_name)
-  sorted_students_2 = sorted(students, key=lambda student: student.age, reverse=True)
-  sorted_students_3 = sorted(students, key=attrgetter('age'), reverse=True)
+      sorted_students_1 = sorted(students, key=get_name)
+      sorted_students_2 = sorted(students, key=lambda student: student.age, reverse=True)
+      sorted_students_3 = sorted(students, key=attrgetter('age'), reverse=True)
 
-  print(sorted_students_1)
-  print(sorted_students_2)
-  print(sorted_students_3)
+      print(sorted_students_1)
+      print(sorted_students_2)
+      print(sorted_students_3)
 
-  #[Bob 21, Cindy 23, John 24]
-  #[John 24, Cindy 23, Bob 21]
-  #[John 24, Cindy 23, Bob 21]
+      #[Bob 21, Cindy 23, John 24]
+      #[John 24, Cindy 23, Bob 21]
+      #[John 24, Cindy 23, Bob 21]
 
 ---
 
