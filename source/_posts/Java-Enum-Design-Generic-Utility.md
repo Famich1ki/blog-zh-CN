@@ -12,13 +12,11 @@ cover: https://pics.findfuns.org/java-enumeration.png
 
 # Java 枚举设计与泛型工具类
 
-```
-
-
 ## 1. 问题背景
 
 在很多业务场景中，枚举需要从 `String` 值进行转换：
 
+```
 ​```java
 StudentStatus.from("enrolled");
 ```
