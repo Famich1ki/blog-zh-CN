@@ -10,9 +10,10 @@ cover: https://pics.findfuns.org/java-enumeration.png
 ---
 
 
+# Java 枚举设计与泛型工具类
 
 ```
-# Java 枚举设计与泛型工具类 – 学习笔记
+
 
 ## 1. 问题背景
 
